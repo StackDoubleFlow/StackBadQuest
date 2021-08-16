@@ -1,0 +1,11 @@
+# Build files
+*.o
+*.so
+
+# QPM
+qpm.shared.json
+extern/
+*.backup
+
+# Logs
+*.log
